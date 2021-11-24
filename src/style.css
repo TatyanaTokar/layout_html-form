@@ -1,1 +1,37 @@
 /* styles go here */
+body {
+  margin: 10px;
+  margin-top: 8px;
+}
+
+.form-field {
+  display: block;
+  margin: 10px 0;
+  margin-left: auto;
+}
+
+.submit {
+  margin: 10px 0;
+  display: block;
+}
+
+.block {
+  margin: 20px 0;
+  margin-left: auto;
+}
+
+.block:first-of-type {
+  margin-top: 0;
+}
+
+fieldset input:last-of-type {
+  margin-bottom: 0;
+}
+
+.form-field:first-of-type {
+  margin-top: 0;
+}
+
+.form-field:last-of-type {
+  margin-bottom: 0;
+}
