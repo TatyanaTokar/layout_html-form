@@ -6,7 +6,7 @@ body {
 
 .form-field {
   display: block;
-  margin: 10px 0;
+  margin-bottom: 10px;
   margin-left: auto;
 }
 
@@ -24,7 +24,7 @@ body {
   margin-top: 0;
 }
 
-fieldset input:last-of-type {
+.block:last-of-type {
   margin-bottom: 0;
 }
 
